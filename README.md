@@ -90,9 +90,6 @@ is how to do that.
 By default the jitsi-meet-electron-utils is build from its git repository
 sources. The default dependency path in package.json is:
 
-```json
-"jitsi-meet-electron-utils": "jitsi/jitsi-meet-electron-utils"
-```
 
 To work with local copy you must change the path to:
 
