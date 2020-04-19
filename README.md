@@ -39,9 +39,6 @@ sudo apt-get install libnss3
 
 For *MacOS* user, you can install the application using the following command:
 
-```
-brew cask install jitsi-meet
-```
 
 ### Using it with your own Jitsi Meet installation
 
